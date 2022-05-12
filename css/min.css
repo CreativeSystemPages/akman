@@ -1,0 +1,1307 @@
+@media screen and (max-width: 1439px) {
+    .header_menu-item:first-child>a {
+        padding: 27px 25px 22px 19px;
+    }
+
+    .header_menu-item:last-child>a {
+        padding: 27px 50px 22px 16px;
+    }
+}
+
+@media screen and (max-width: 1290px) {
+    .header_logo {
+        width: 155px;
+        padding-left: 0;
+    }
+
+    .header_menu-item a,
+    .adress,
+    .footer_phone,
+    .second_level li a,
+    .add-to-cart,
+    .filters_title,
+    .filters_agree,
+    .kitchen_button {
+        font-size: 20px;
+    }
+
+    .header_menu-item:first-child>a {
+        padding: 27px 30px 22px 0px;
+    }
+
+    .header_menu-item:last-child>a {
+        padding: 27px 23px 22px 46px;
+    }
+
+    .culture .sub_title-menu {
+        padding: 0;
+    }
+
+    .header_search-area {
+        display: none;
+    }
+
+    .header_call {
+        width: 180px;
+        margin: 0;
+    }
+
+    /*_________________________________First Page________________________________________________*/
+
+    .first_page {
+        max-width: 549px;
+        width: 100%;
+        margin: 111px 52px 0 0;
+    }
+
+    .first_page h1 {
+        font-size: 38px;
+    }
+
+    .first_page input {
+        width: 534px;
+        margin: 0;
+    }
+
+    .transition {
+        padding: 60px 27px 60px 47px;
+        justify-content: center;
+    }
+
+    .plants-img {
+        width: 224px;
+        height: 224px;
+    }
+
+    .plants_transition {
+        font-size: 27px;
+    }
+
+    .bestsellers_img {
+        display: none;
+    }
+
+    .bestsellers_card:first-child {
+        margin-left: -0.3%;
+    }
+
+    .bestsellers_card {
+        margin-bottom: 60px;
+    }
+
+    .experience {
+        padding-bottom: 60px;
+    }
+
+    .experience img {
+        width: 224px;
+    }
+
+    .experience:not(:last-child) {
+        padding-right: 8px;
+    }
+
+    h2 {
+        font-size: 44px;
+        padding: 60px 0 50px 0;
+    }
+
+    /*_____________________________________Catalog__________________________________________________*/
+    .option_container {
+        padding: 5% 0 0 1.5%;
+    }
+
+    #filters {
+        padding-right: 54px;
+    }
+
+    .filters_title,
+    .filters_agree {
+        width: 235px;
+    }
+
+    .filters_agree {
+        padding: 8px 56px;
+        margin: 25px 0 25px 0;
+    }
+
+    .filters_disagree {
+        font-size: 16px;
+    }
+
+    .filter_item ul li,
+    .card_subtitle h6,
+    .card_subtitle p,
+    .line_table h6,
+    .line_table p,
+    .type_txt a,
+    .type_txt p,
+    .action_description p {
+        font-size: 18px;
+    }
+
+    .card {
+        width: 195px;
+        margin: 0px 26px 26px 0;
+    }
+
+    .cards h1 {
+        padding: 0 0 50px 0;
+        font-size: 36px;
+
+    }
+
+    .add-to-cart{
+        padding: 7px 38px;
+    }
+
+    .table_subtitle p {
+        height: 58px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .table_txt {
+        padding: 10px 0 18px 10px;
+    }
+
+    .table_title {
+        padding: 0 0 12px 0;
+    }
+
+    .benefits_item p,
+    .table_title img {
+        padding-top: 12px;
+    }
+
+    /*_____________________________________Seeds Card_______________________________________________*/
+
+    .card_subtitle h5:first-child {
+        font-size: 17px !important;
+    }
+
+    /*_____________________________________Open Card________________________________________________*/
+    .simple-container {
+        padding: 50px 0 60px 15px;
+    }
+
+    .first_screen {
+        padding: 0 0 60px 0;
+    }
+
+    .first_screen p {
+        font-size: 22px;
+        padding-top: 15px;
+    }
+
+    .first_screen div img {
+        width: 215px;
+        padding-left: 10px;
+        margin-right: 15px;
+    }
+
+    .line_table_item {
+        padding: 6px 0 6px 50px;
+    }
+
+    .benefits h2 {
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+
+    .benefits_item-txt p {
+        font-size: 22px;
+    }
+
+    .action:not(:first-child) {
+        margin-top: 20px;
+    }
+
+    .action p {
+        font-size: 30px;
+    }
+
+    .action img,
+    .table_title img {
+        width: 30px;
+    }
+
+
+    .type_txt {
+        display: block;
+    }
+
+    .type_txt a {
+        padding-bottom: 20px;
+    }
+
+    /*______________________________________hurmful_list_____________________________________________*/
+
+    #block_card .kitchen_card img {
+        width: 185px;
+        margin-right: 40px;
+    }
+
+    .first_screen .fz-20px {
+        font-size: 20px;
+    }
+
+    #harmful_main h1 {
+        margin-bottom: 50px;
+    }
+
+    /*____________________________Culture list______________________________________________________*/
+    .chemistry_container {
+        padding: 50px 5px 0 15px;
+    }
+
+    .chemistry_card {
+        width: 195px;
+        margin: 0 26px 26px 0;
+        height: 266px;
+        box-shadow: 0px 0px 12px 3px rgba(0, 0, 0, 0.25);
+    }
+
+    .chemistry_card:hover {
+        box-shadow: 0px 0px 32px 3px rgba(0, 0, 0, 0.6);
+    }
+
+    .card-row {
+        justify-content: start;
+    }
+
+    .chemistry_card p {
+        font-size: 19px;
+        padding: 0 3.5px 30px 3.5px;
+    }
+
+    /*__________________________________Culture_open________________________________________________*/
+    .experience_link {
+        padding: 5px 10px;
+        left: 26px;
+        bottom: 40px;
+        width: 90%;
+    }
+
+    .experience_link a {
+        padding-right: 22px;
+        font-size: 20px;
+    }
+
+
+    .single_culture_subtitle {
+        width: 162px;
+    }
+
+    .table_subtitle>.single_culture_subtitle>.w-fc {
+        width: fit-content;
+    }
+
+
+
+
+    /*______________________________________Footer__________________________________________________*/
+    .footer_link,
+    .title {
+        font-size: 22px;
+    }
+
+    .footer_link a:not(:last-child) {
+        padding-bottom: 20px;
+    }
+
+    footer>.transition {
+        padding: 50px 22px;
+    }
+
+    .footer_contacts {
+        padding: 0 0 0 70px;
+    }
+
+    .title {
+        padding-bottom: 15px;
+    }
+
+    .footer_company {
+        margin-bottom: 15px;
+    }
+
+    .privat_policy {
+        width: 299px;
+    }
+}
+
+/*______________________________________________________768PX____________________________________________________________________________________________________________________*/
+
+@media screen and (max-width: 990px) {
+    .header {
+        justify-content: space-between;
+    }
+
+    .header_logo {
+        width: 154px;
+        margin: 10px 0 10px 28px;
+    }
+
+    .header_menu {
+        display: none;
+    }
+
+    .header_menu-item a,
+    .adress,
+    .footer_phone,
+    .second_level li a,
+    .add-to-cart,
+    .filters_title,
+    .filters_agree,
+    .kitchen_button {
+        font-size: 16px;
+    }
+
+    .header_menu-item:first-child>a {
+        padding: 27px 30px 22px 0px;
+    }
+
+    .header_menu-item:last-child>a {
+        padding: 27px 23px 22px 46px;
+    }
+
+    .culture .sub_title-menu {
+        padding: 0;
+    }
+
+    .header_search-area {
+        display: none;
+    }
+
+    .header_call {
+        display: none;
+    }
+
+    .burger_call {
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .mb-162px {
+        margin-bottom: 162px;
+        border-bottom: 1px solid #000;
+    }
+
+    /*_________________________________First Page________________________________________________*/
+    .container {
+        height: inherit;
+    }
+
+    .first_page {
+        max-width: 452px;
+        width: 100%;
+        margin: 80px 47px 0 0;
+    }
+
+    .first_page h1 {
+        font-size: 32px;
+        margin: 20px 0 35px 0;
+        line-height: 45px;
+    }
+
+    .first_page input {
+        width: 452px;
+        height: 45px;
+        margin: 0 0 112px 0;
+    }
+
+    .transition {
+        padding: 50px 27px;
+
+
+    }
+
+    .plants-img {
+        width: 180px;
+        height: 180px;
+        margin-bottom: 20px;
+    }
+
+    .plants-img img {
+        width: 81px;
+    }
+
+    .plants_transition {
+        width: 229px;
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    h2 {
+        font-size: 34px;
+        padding: 50px 0 30px 0;
+    }
+
+    .bestsellers_img {
+        display: none;
+    }
+
+    .bestsellers_card:first-child,
+    .bestsellers_card {
+        width: 230px;
+    }
+
+    .bestsellers_card {
+        margin-left: 19px;
+        margin-bottom: 50px;
+    }
+
+    .bestsellers_subtitle h5 {
+        font-size: 24px;
+    }
+
+    .bestsellers_subtitle h6 {
+        font-size: 20px;
+    }
+
+    .bestsellers_subtitle p,
+    .bestsellers_subtitle a,
+    .benefits_item p {
+        font-size: 22px;
+    }
+
+    .table_subtitle p {
+        font-size: 14px;
+    }
+
+
+
+    .experience {
+        padding-bottom: 50px;
+    }
+
+    .experience img {
+        width: 167px;
+    }
+
+
+    /*_____________________________________Catalog__________________________________________________*/
+    .option_container {
+        padding: 30px 0 0 20px;
+        display: block;
+    }
+
+
+
+    #filters p {
+        display: none;
+    }
+
+    .filters_title,
+    .filters_agree {
+        width: 235px;
+    }
+
+    .filters_agree {
+        padding: 8px 56px;
+        margin: 25px 0 25px 0;
+    }
+
+    .filters_disagree {
+        font-size: 16px;
+    }
+
+    .filter_item ul li,
+    .card_subtitle h6,
+    .card_subtitle p,
+    .line_table h6,
+    .line_table p,
+    .type_txt a,
+    .type_txt p,
+    .action_description p {
+        font-size: 16px;
+    }
+
+    .cards {
+        padding: 0 0 0 30px;
+    }
+
+    .card {
+        width: 195px;
+        margin: 0px 26px 26px 0;
+    }
+
+    .cards h1 {
+        padding: 0 0 40px 0;
+        font-size: 34px;
+
+    }
+
+    .add-to-cart {
+        padding: 7px 38px;
+    }
+
+    .table_subtitle p {
+        height: 58px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .table_txt {
+        padding: 10px 0 18px 10px;
+    }
+
+    .table_title {
+        padding: 0 0 10px 0;
+    }
+
+    .benefits_item p,
+    .table_title img {
+        padding-top: 10px;
+    }
+
+    /*_____________________________________Seeds Card_______________________________________________*/
+
+    .card_subtitle h5:first-child {
+        font-size: 17px !important;
+    }
+
+    /*_____________________________________Open Card________________________________________________*/
+    .simple-container {
+        padding: 30px 0 30px 20px;
+        display: block
+    }
+
+
+    .first_screen {
+        padding: 0 0 50px 0;
+    }
+
+
+    #harmful_main h1,
+    .first_screen h1 {
+        font-size: 34px;
+    }
+
+    .first_screen p {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+
+    .first_screen a:last-child {
+        margin-top: 30px;
+    }
+
+    .first_screen div img {
+        width: 190px;
+        padding-left: 10px;
+        margin-right: 20px;
+    }
+
+    .second_screen {
+        padding: 20px;
+    }
+
+    .second_screen_type {
+        width: 100%;
+        padding-left: 20px;
+    }
+
+    .type_txt:first-child {
+        margin-right: 65px;
+    }
+
+    .openWindow {
+        width: 708px;
+    }
+
+    .line_table_item {
+        padding: 6px 0 6px 20px;
+    }
+
+    .line_table p {
+        width: 346px;
+    }
+
+    .benefits {
+        width: 100%;
+    }
+
+    .benefits h2 {
+        font-size: 34px;
+        padding-bottom: 15px;
+    }
+
+    .benefits_item {
+        padding-bottom: 60px;
+    }
+
+    .benefits_item-txt {
+        align-items: revert;
+    }
+
+    .benefits_item-txt p {
+        font-size: 20px;
+    }
+
+    .benefits_item-txt img {
+        width: 30px;
+        margin: 15px 20px 10px 0;
+        padding: 0;
+    }
+
+    .action {
+        padding: 8px 50px;
+    }
+
+    .action p {
+        font-size: 28px;
+    }
+
+    .action img,
+    .table_title img {
+        width: 30px;
+    }
+
+    .action_description p:first-child {
+        padding: 20px 0 30px 0;
+    }
+
+
+    .type_txt {
+        display: block;
+    }
+
+    .type_txt a {
+        padding-bottom: 20px;
+    }
+
+    /*______________________________________hurmful_list_____________________________________________*/
+
+    #block_card .kitchen_card img {
+        width: 167px;
+        height: 167px;
+        margin-right: 30px;
+    }
+
+    #block_card h5,
+    #block_card h6,
+    #block_card p {
+        font-size: 24px;
+    }
+
+
+    .first_screen .fz-20px {
+        font-size: 20px;
+    }
+
+    #harmful_main h1 {
+        margin-bottom: 40px;
+    }
+
+    .single_hurmful_open_list h3 {
+        font-size: 30px;
+        padding: 12px 0 12px 0;
+    }
+
+
+
+    /*____________________________Culture list______________________________________________________*/
+    .chemistry_container {
+        display: block;
+        padding: 30px 5px 0 15px;
+    }
+
+    .chemistry_card {
+        width: 195px;
+        margin: 0 26px 26px 0;
+    }
+
+
+
+    .card-row {
+        justify-content: start;
+    }
+
+    /*__________________________________Culture_open________________________________________________*/
+    .experience_link {
+        padding: 5px 10px;
+        left: 26px;
+        bottom: 40px;
+        width: 90%;
+    }
+
+    .experience_link a {
+        padding-right: 22px;
+        font-size: 20px;
+    }
+
+    .line_table {
+        padding-right: 15px;
+    }
+
+    .single_culture_subtitle {
+        width: 145px;
+    }
+
+    /*_______________________________________Lignogumat______________________________________________*/
+    .benefits_item-txt>.fz-17px {
+        font-size: 17px;
+    }
+
+    /*______________________________________Footer__________________________________________________*/
+    .footer_link,
+    .title {
+        font-size: 20px;
+    }
+
+    .footer_link {
+        width: 30%;
+    }
+
+    .footer_link a:not(:last-child) {
+        padding-bottom: 10px;
+    }
+
+    footer>.transition {
+        padding: 50px 18px 0 20px;
+    }
+
+    .footer_contacts {
+        padding: 0;
+    }
+
+    .title {
+        padding-bottom: 10px;
+    }
+
+    .footer_company {
+        margin-bottom: 10px;
+    }
+
+    .footer_company img {
+        width: 30px;
+    }
+
+    .web_link {
+        padding-top: 25px;
+    }
+
+    .privat_policy {
+        width: 230px;
+    }
+
+    .menu_phone {
+        display: block;
+    }
+
+    .minFilter-title {
+        width: 161px;
+        padding: 6px 15px;
+        border: 2px solid #412A2A;
+        margin: 0 0 30px 0;
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        border-radius: 10px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 141%;
+    }
+
+    .minFilter-title img {
+        width: fit-content;
+    }
+
+    .filters {
+        width: 442px;
+        margin-bottom: 60px;
+        align-items: baseline;
+        transform: scaleX(0);
+        display: none;
+        transition: transform, .5s, linear;
+    }
+
+    .scaleX {
+        transform: scaleX(1);
+        display: flex;
+        transition: transform, .5s, linear;
+    }
+}
+
+/*___________________________________________________________480PX____________________________________________________________________________________*/
+@media screen and (max-width: 761px) {
+.header_logo{
+    margin: 10px 0 10px 20px;
+}
+
+    .first_page {
+        max-width: 311px;
+        width: 100%;
+        margin: 67px 20px 0 0;
+    }
+
+    .first_page h1 {
+        font-size: 22px;
+        margin: 12px 0 15px 0;
+        line-height: 31px;
+    }
+
+    .first_page input {
+        width: 311px;
+        height: 40px;
+        margin: 0 0 103px 0;
+    }
+
+    .transition {
+        padding: 40px 20px 40px 20px;
+        justify-content: space-between;
+
+
+    }
+
+    .plants-img {
+        width: 130px;
+        height: 130px;
+        margin-bottom: 20px;
+        border-radius: 30px 0px 30px 30px;
+    }
+
+    .plants-img img {
+        width: 91px;
+        height: 91px;
+    }
+
+    .plants_transition {
+        width: 130px;
+        font-size: 20px;
+        line-height: 28px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    h2 {
+        font-size: 26px;
+        padding: 40px 0 30px 0;
+    }
+
+
+    .bestsellers_img {
+        display: none;
+    }
+
+    .expert{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bestsellers_card:first-child,
+    .bestsellers_card {
+        width: 202px;}
+
+    .bestsellers_card {
+        margin-left: 19px;
+        margin-bottom: 40px;
+    }
+
+    .bestsellers_subtitle h5 {
+        font-size: 22px;
+    }
+
+    .bestsellers_subtitle h6 {
+        font-size: 18px;
+    }
+    .bestsellers_subtitle a{
+        padding: 6px 16px;
+    }
+    .bestsellers_subtitle p,
+    .bestsellers_subtitle a,
+    .benefits_item p {
+        font-size: 20px;
+    }
+
+    .table_subtitle p {
+        font-size: 14px;
+    }
+
+
+    .experience {
+        padding-bottom: 20px;
+    }
+
+    .experience img {
+        width: 164px;
+    }
+
+    .experience:not(:last-child) {
+        padding-right: 20px;
+    }
+
+    .experience:last-child{
+        padding-right: 20px;
+    }
+/*__________________________________________________________Footer 480PX_______________________________________________________________________*/
+    .footer_link,
+    .title {
+        font-size: 18px;
+    }
+
+    .adress{
+        font-size: 14px;
+    }
+
+    .footer_link {
+       display: none;
+    }
+
+    .footer_link a:not(:last-child) {
+        padding-bottom: 10px;
+    }
+
+    footer>.transition {
+        padding: 40px 20px;
+        justify-content: space-between;
+    }
+
+    .footer_contacts {
+        display: block;
+    }
+
+    .title {
+        padding-bottom: 10px;
+    }
+
+    .footer_company {
+        margin-bottom: 10px;
+    }
+
+    .footer_company img {
+        width: 30px;
+    }
+
+    .web_link {
+        padding-top: 25px;
+    }
+
+    .privat_policy {
+        width: 230px;
+    }
+
+/*________________________________________________________________Catalog 480PX_____________________________________________________-*/
+    .option_container {
+        padding: 30px 0 0 20px;
+        display: block;
+    }
+
+
+
+    #filters p {
+        display: none;
+    }
+
+    .filters_title,
+    .filters_agree {
+        width: 235px;
+    }
+
+    .filters_agree {
+        padding: 8px 56px;
+        margin: 25px 0 25px 0;
+    }
+
+    .filters_disagree {
+        font-size: 16px;
+    }
+
+    .filter_item ul li,
+    .card_subtitle h6,
+    .card_subtitle p,
+    .line_table h6,
+    .line_table p,
+    .type_txt a,
+    .type_txt p,
+    .action_description p {
+        font-size: 16px;
+    }
+
+    .cards {
+        padding: 0 0 0 45px;
+    }
+
+    .card {
+        width: 170px;
+        margin: 0px 26px 26px 0;
+    }
+
+    .cards h1 {
+        padding: 0 0 30px 0;
+        font-size: 26px;
+
+    }
+
+    .add-to-cart {
+        padding: 7px 32px;
+    }
+
+    .table_subtitle p {
+        height: 58px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .table_txt {
+        padding: 10px 0 18px 10px;
+    }
+
+    .table_title {
+        padding: 0 0 10px 0;
+    }
+
+    .benefits_item p,
+    .table_title img {
+        padding-top: 10px;
+    }
+
+/*_______________________________________________Open Card 480PX _____________________________________________________________*/
+
+.simple-container {
+    padding: 30px 0 30px 20px;
+    display: block
+}
+
+
+.first_screen {
+    padding: 0 0 50px 0;
+}
+
+
+#harmful_main h1,
+.first_screen h1 {
+    font-size: 18px;
+}
+
+.first_screen p {
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.first_screen a:last-child {
+    margin-top: 30px;
+}
+
+.first_screen div img {
+    width: 130px;
+}
+
+.second_screen {
+    padding: 20px 20px 0 20px;
+}
+
+.second_screen_type {
+    width: 100%;
+    padding-left: 0;
+}
+
+.type_txt:first-child {
+    margin-right: 20px;
+}
+
+.openWindow {
+    width: 440px;
+    margin: 0 auto;
+}
+
+.line_table_item {
+    padding: 6px 20px 6px 20px;
+}
+
+.line_table h6{
+    margin-right: 15px;
+}
+
+.line_table p {
+    width: 346px;
+}
+
+.benefits {
+    width: 100%;
+}
+
+.benefits h2 {
+    font-size: 26px;
+    padding: 40px 0 15px 0;
+}
+
+.benefits_item {
+    padding-bottom: 40px;
+}
+
+
+.benefits_item-txt {
+    align-items: center;
+}
+
+.benefits_item-txt p {
+    font-size: 18px;
+}
+
+.benefits_item-txt img {
+    width: 30px;
+    margin: 15px 20px 10px 0;
+    padding: 0;
+}
+
+.action {
+    padding: 8px 30px;
+}
+
+.action p {
+    font-size: 24px;
+}
+
+.action img,
+.table_title img {
+    width: 30px;
+}
+
+.action_description p:first-child {
+    padding: 20px 0 30px 0;
+}
+
+
+.type_txt {
+    display: block;
+
+}
+
+.type_txt a {
+    padding-bottom: 20px;
+}
+
+.table_title img{
+    margin-right: 30px;
+}
+
+.table{
+    display: block;
+    margin-bottom: 30px;
+}
+
+.table_subtitle{
+    width: 100%;
+    flex-direction: row;
+    margin: 0;
+    border: none;
+}
+
+.table_subtitle p{
+    width: 147px;
+    height: inherit;
+    border: 1px solid #fff;
+}
+
+.table_subtitle p:not(:last-child){
+    border-bottom: none;
+}
+
+.table_txt{
+    font-size: 15px;
+    width: 291px;
+    border: 1px solid rgba(65, 42, 42, 1);
+}
+.table_txt:not(:last-child){
+    border-bottom: none;
+}
+/*_____________________________________________________________Hurmful list________________________________________________________*/
+#block_card .kitchen_card img {
+    width: 95px;
+    height: 95px;
+    margin-right: 20px;
+    border-radius: 30px 0px 30px 30px;
+}
+
+#block_card h5,
+#block_card h6,
+#block_card p {
+    font-size: 20px;
+}
+
+.first_screen{
+    padding: 0 0 38px 0;
+}
+
+.dis-block{
+    display: block;
+    padding-right: 20px;
+}
+
+
+.first_screen .fz-20px {
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+.first_screen div img{
+    padding: 0;
+}
+
+.single_hurmful_list{
+    font-size: 16px;
+}
+
+#harmful_main h1 {
+    margin-bottom: 40px;
+}
+
+.single_hurmful_open_list h3 {
+    font-size: 20px;
+    padding: 0;
+}
+/*________________________________________________________Culture List 480px____________________________________________________________________*/
+.chemistry_container {
+    display: block;
+    padding: 30px 0 0 20px;
+}
+
+.chemistry_card {
+    width: 170px;
+    margin: 0 26px 26px 0;
+}
+
+.chemistry_card p{
+    font-size: 16px;
+}
+/*____________________________________________________________Culture Open List___________________________________________________________________*/
+.experience_link {
+    padding: 5px 10px;
+    left: 14px;
+    bottom: 25px;
+    width: 90%;
+    align-items: center;
+}
+
+.experience_link img{
+    width: 25px;
+    height: fit-content;
+}
+
+.experience_link a {
+    padding-right: 22px;
+    font-size: 18px;
+}
+
+.line_table {
+    padding-right: 0px;
+}
+
+.single_culture_subtitle {
+    width: 145px;
+}
+
+.single_action_description_card{
+    padding: 20px 0;
+}
+}
